@@ -1,4 +1,4 @@
-# React Native Team4 App
+# Blood Bank
 ## Description
   A mobile app allows users to Donate/Request blood.
   
