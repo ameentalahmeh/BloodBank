@@ -11,7 +11,7 @@ In our app you can :
   - Donate blood (fill a form inputs which includes donation details).
   - Request blood (fill form inputs that describe the needed blood status).
   
-  ## Why Frames
+  ## Wireframes
   
   
   
